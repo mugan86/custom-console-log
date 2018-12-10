@@ -1,0 +1,1 @@
+console.log('%c 🎉 🎉  ¡¡Librería correctamente instalada!! 🎉 🎉', 'color: green; font-weight: bold; font-size: 20px');

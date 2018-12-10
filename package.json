@@ -1,0 +1,21 @@
+{
+  "name": "custom-console-log",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node postinstall.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugan86/custom-console-log.git"
+  },
+  "keywords": [],
+  "author": "Anartz Mugika Ledo <mugan86@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mugan86/custom-console-log/issues"
+  },
+  "homepage": "https://github.com/mugan86/custom-console-log#readme"
+}
