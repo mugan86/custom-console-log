@@ -1,14 +1,14 @@
-/*var constants = require('./constants');
+/*var constants = require("./constants");
 
 console.log(`${constants.Underscore}%s${constants.Reset}` ,"I Am Using Yellow");
 console.log("\x1b[44m%s\x1b[0m" ,"Background Color Is Blue");
 
-constants.value(['Bienvendido', 'prueba']);
+constants.value(["Bienvendido", "prueba"]);
 
-console.unicorn = console.log.bind(console, '🦄 ');
-console.pizza = console.log.bind(console, '🍕 ');
-console.beer = console.log.bind(console, '🍺  %s 🍺');
-console.poo = console.log.bind(console, '💩  %s 🙏');
+console.unicorn = console.log.bind(console, "🦄 ");
+console.pizza = console.log.bind(console, "🍕 ");
+console.beer = console.log.bind(console, "🍺  %s 🍺");
+console.poo = console.log.bind(console, "💩  %s 🙏");
 
 // Log to the console!
 console.unicorn("Magical!");
@@ -17,11 +17,11 @@ console.pizza("Tasty!");
 console.poo("Oh f*ck!");
 
 
-var l = console.log.bind(console, '🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 \n LOG: %s \n🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 ');
-var w = console.warn.bind(console, 'WARN:');
-var e = console.error.bind(console, 'ERROR:');
+var l = console.log.bind(console, "🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 \n LOG: %s \n🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 🛑 ");
+var w = console.warn.bind(console, "WARN:");
+var e = console.error.bind(console, "ERROR:");
 
-l('Test')
+l("Test")
 */
 
 function log (msg, color) {
