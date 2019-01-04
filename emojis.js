@@ -1531,4 +1531,4 @@ module.exports = {
     "woman-bouncing-ball": "⛹️‍♀️",
     "man-bouncing-ball": "⛹️‍♂️",
     "person_with_ball": "⛹️‍♂️"
-}
+};
